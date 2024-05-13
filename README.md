@@ -9,7 +9,7 @@ This is a simple Spring Boot application that demonstrates how to generate an Ex
 - [Setup](#setup)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [License](#license)
+
 
 ## Technologies
 
